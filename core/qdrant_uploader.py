@@ -1,4 +1,4 @@
-"""Handles uploading chunks to vector database"""
+"""Handles uploading chunks to vector ddatabase"""
 
 from typing import List, Optional
 import uuid
