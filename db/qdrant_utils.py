@@ -1,4 +1,4 @@
-"""Utils for the Qdrant Vector Database"""
+"""Utils for the Qdrant Vector Databases"""
 
 from qdrant_client import AsyncQdrantClient
 
